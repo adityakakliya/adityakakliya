@@ -6,3 +6,5 @@
 ## Please visit [my portfolio website](https://adityakakliya.github.io/) and [my linkedin profile](https://www.linkedin.com/in/adityakakliya97/) to know about my accomplishments and people who heartily recommend me.
 
 ### If you think I could add value to your teams(s), then I am highly interested to discuss further. Please reach-out to me at aditya455@asu.edu or +1-(623)-218-3888.
+
+![](adityakakliya.PNG)
