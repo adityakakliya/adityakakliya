@@ -1,4 +1,4 @@
-## Hi developer,
+<!--- ## Hi developer,
 
 ### I am Aditya, MSCS graduate student at Arizona State University. I am actively seeking full-time opportunities as a software developer/software engineer/full-stack developer from May 2021.
 
@@ -8,3 +8,5 @@
 ### If you think I could add value to your teams(s), then I am highly interested to discuss further. Please reach-out to me at aditya455@asu.edu or +1-(623)-218-3888.
 
 ![](adityakakliya.PNG)
+
+-->
